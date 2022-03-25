@@ -1,0 +1,8 @@
+//Name: Santiago Osejo
+//ID: 134962208
+//Email: sosejo-zuluaga@myseneca.ca
+//Date: 16/10/2021
+//section NHH
+//I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+The project got a little bit confusing at one point when orders start to mix with products and stations, but while completing the code it was easier to get relation between them eventhough it was kind of still confusing at the end.
